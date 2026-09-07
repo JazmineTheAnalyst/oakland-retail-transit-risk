@@ -1,2 +1,3 @@
-# oakland-retail-transit-risk
-Spatial-temporal analysis of commercial property crime pipelines and transit corridors in Oakland, CA.
+# Spatial Analytics: Retail Vulnerability & Commercial Property Risk
+**Focus Corridor:** Rockridge Business District, Oakland, CA (2025–2026)  
+**Author:** Jazmine Davis, Graduate Research Project
